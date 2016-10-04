@@ -1,0 +1,545 @@
+.container{
+    max-width: 1470px;
+}
+
+
+.vee_index{
+    padding-top: 50px;
+}
+.vee_title{
+    font-family: STHeiti, 'PingFangSC-Regular';
+    font-size: 24px;
+    color: #333333;
+    letter-spacing: 2.5px;
+    padding-bottom: 48px;
+}
+.vee_caption{
+    padding-top: 12px;
+    font-family: PingFang-SC-Regular , 'PingFangSC-Regular';
+    font-size: 14px;
+    color: #333333;
+    padding-bottom: 60px;
+}
+
+.vee_cover_h{
+    margin: auto;
+    max-width: 660px;
+    height: auto;
+    padding-bottom: 50px;
+}
+
+.vee_cover_v{
+    margin: auto;
+    max-width: 400px;
+    height:auto;
+    padding-bottom: 50px;
+}
+.vee_50{
+    padding-top: 50px;
+}
+.vee_30{
+    padding-top: 30px;
+}
+
+
+.vee_nav{
+font-family: STXihei , 'PingFangSC-Regular';
+font-size: 18px;
+color: #333333;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+.vee_nav.vee_about{
+
+}
+/*flat bootatrap*/
+.well, .navbar-inner, .popover, .btn, .tooltip,
+input, select, textarea, pre, .progress, .modal,
+.add-on, .alert, .table-bordered, .nav>li>a,
+.dropdown-menu, .tooltip-inner, .badge, .label,
+.img-polaroid, .thumbnail, .dropdown-toggle {
+  -moz-box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+  -webkit-border-radius: 0px !important;
+  -moz-border-radius: 0px !important;
+  border-radius: 0px !important;
+  border-collapse: collapse !important;
+  background-image: none !important;
+}
+.btn {
+      border :none;
+}
+
+.vee_player{
+    max-width: 1440px;
+    margin-top: 0px;
+}
+
+.global_center{
+    align-items: center;
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: -1;
+}
+
+.vee_full_screen_picture{
+    max-width : 1440px;
+    height : auto;
+
+}
+.vee_container{
+    max-width: 1440px;
+
+}
+
+
+.vee_break{
+    margin-top: 72px;
+    margin-bottom: 28px;
+
+}
+
+.vee_break_line{
+    align: center;
+    width: 176px;
+    size : 1px;
+    color :#999999
+}
+
+.vee_content{
+    text-align: center;
+    padding-left: 6%;
+    padding-right: 6%;
+    font-family: PingFangSC-Regular;
+    color: #333333;
+    letter-spacing: 0px;
+    line-height: 22px;
+
+}
+
+
+
+.vee_shinging{
+    box-shadow: 0px 0px 10px 0px rgba(153,153,153,0.50);
+}
+.vee_invisible{
+    visibility: hidden;
+}
+
+.vee_footer{
+    width:  100%;
+    min-height: 134px;
+    background: #3EB7A5;
+    bottom : 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+.vee_80{
+    height: 80px;
+}
+.vee_product{
+    margin: auto;
+}
+
+.vee_yellow_break
+{
+    border-top: 1px solid #F49800;
+}
+
+.vee_product > .vee_caption >h3{
+    /*max-width: 150px;*/
+    font-family: PingFang-SC-Medium;
+    font-size: 18px;
+    color: #000000;
+    letter-spacing: 0px;
+}
+.vee_product > img {
+    max-width: 150px;
+    /*margin: auto;*/
+}
+
+.vee_narrow80{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.vee_story_panel{
+    height: auto;
+    padding-top: 60px;
+    Padding-bottom : 70px;
+}
+.vee_focus{
+    padding-top: 13px;
+    font-family: STHeiti , 'PingFangSC-Regular';
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.vee_social_group{
+    padding-top: 15px;
+}
+.vee_copy_right{
+    padding-top: 12px;
+    font-family: PingFangSC-Semibold , 'PingFangSC-Regular';
+    font-size: 14px;
+    color: #FFFFFF;
+    padding-bottom: 7px;
+}
+
+.vee_full_picture{
+    width: 100%;
+    height:auto;
+}
+.vee_blog_cover{
+    max-width: 1440px;
+    min-width: 80%;
+    height: auto;
+}
+
+.vee_blog_title{
+    font-family: STHeiti , 'PingFangSC-Regular';
+    font-size: 24px;
+    color: #333333;
+    line-height: 30px;
+}
+.vee_blog_full_picture{
+    max-width: 100%;
+}
+.vee_blog_content{
+    max-width: 1440px;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin: auto;
+}
+.vee_blog_center{
+    margin: auto;
+    text-align: center;
+}
+.vee_center{
+    margin:auto;
+}
+
+.vee_menu{
+    font-size: 20px;
+}
+
+.vee_blog_half_pic{
+    max-width: 640px;
+    height:auto;
+}
+
+.vee_blog_content_text{
+    height: fit-content;
+    font-family: PingFangSC-Regular , 'PingFangSC-Regular';
+    font-size: 14px;
+    color: #333333;
+    line-height: 25px;
+    vertical-align:middle;
+    display: table-cell;
+}
+
+.vee_blog_double_pic{
+    max-width: 640px;
+    height:auto;
+}
+
+
+.vee_blog_inner_content{
+    display: table;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.vee_coming_soon{
+    position: absolute;
+    top: 20%;
+    margin-left: 10%;
+    margin-right: 25%;
+    color: white;
+    transform:rotate(30deg);
+    -ms-transform:rotate(30deg); 	/* IE 9 */
+    -moz-transform:rotate(30deg); 	/* Firefox */
+    -webkit-transform:rotate(30deg); /* Safari 和 Chrome */
+    -o-transform:rotate(30deg);
+    font-size: 40px;
+}
+
+.vee_gray > img{
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+}
+.vee_story_panel_product{
+    height: auto;
+    Padding-top : 73px;
+}
+/*qr code*/
+
+
+/*time line css*/
+.timeline{
+    margin-top: 60px;
+    list-style: none;
+    position: relative;
+
+}
+.timeline:before {
+    content: '';
+    display: inline-block;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    width: 5px;
+    height: 1118px;
+    background-color: #EE6723;
+    opacity: 0.8;
+}
+.timeline .item {
+    position: absolute;
+    width: 500px;
+    font-size: 14px;
+    color: #000000;
+}
+.timeline .item.left {
+    left: 50%;
+    margin-left: -39px;
+}
+
+.timeline .item.right {
+    right: 50%;
+    margin-right: -39px;
+    text-align: right;
+}
+.timeline .item.right .event {
+    float: right;
+}
+
+.timeline_event{
+    font-weight: normal;
+}
+
+.timeline .item.left .year_icon {
+    float: left;
+    margin-right: 20px;
+}
+.timeline .item.right .year_icon {
+    float: right;
+    margin-left: 20px;
+}
+.timeline .item .year_icon span{
+    background-color: #3EB7A5;
+    width: 78px;
+    height: 78px;
+    display: inline-block;
+    border-radius: 39px;
+    color: #ffffff;
+    line-height: 78px;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Titillium Web', sans-serif, 'PingFangSC-Regular';
+}
+.year_2015_4{
+    top : 0px;
+}
+
+.year_2015_7{
+    top : 130px;
+}
+
+.year_2015_8{
+    top : 260px;
+}
+
+.year_2015_9{
+    top : 390px;
+}
+
+.year_2016_1{
+    top : 520px;
+}
+
+
+.year_2016_2{
+    top : 650px;
+}
+.year_2016_5{
+    top : 780px;
+}
+
+.year_2016_7{
+    top : 910px;
+}
+
+.year_2016_8{
+    top : 1040px;
+}
+.after_timeline{
+    margin-top: 1250px;
+}
+.event>table>tbody>tr>th {
+    font-weight: normal;
+    padding-top: 10px;
+    /*font-size : 20px;*/
+}
+
+/* Fuck 15px for iPhone Start */
+.row{margin:0;}
+.col-lg-1,.col-lg-10,.col-lg-11,.col-lg-12,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-md-1,.col-md-10,.col-md-11,.col-md-12,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-sm-1,.col-sm-10,.col-sm-11,.col-sm-12,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-xs-1,.col-xs-10,.col-xs-11,.col-xs-12,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9{padding:0;}
+/* Fuck 15px for iPhone Over */
+
+
+/*small size*/
+
+@media (min-width: 500px) {
+
+    .navbar-brand,
+    .navbar-nav li a {
+        line-height: 50px;
+        height: 50px;
+        padding-top: 5px;
+        font-size: 15px;
+    }
+
+
+    #qrcode-img{
+        position: absolute;
+        display: none;
+        top: -310px;
+        min-width: 300px;
+        min-height: 300px;
+        left:20%;
+    }
+    .vee_blog_vertical{
+    }
+
+    .vee_blog_left{
+        padding-top: 20px;
+        margin: auto;
+    }
+
+    .vee_blog_right{
+        padding-top: 20px;
+        margin: auto;
+    }
+
+    .vee_phase{
+        margin-bottom: 44px;
+    }
+
+    .event>table>tbody>tr>th {
+        font-size : 12px;
+    }
+    .vee_blog_half_pic{
+        padding-top: 20px;
+        margin: auto;
+    }
+    .vee_slogan{
+        text-align: center;
+        top: 80px;
+        color: white;
+        font-size: 33px;
+        /*font-family: "STHeiti T0C";*/
+    }
+    .vee_title_container{
+        text-align: center;
+        margin-top: -27%;
+        /*margin-top: -322px;*/
+        margin-bottom: 20%;
+        position: relative;
+    }
+    .vee_story_picture{
+        text-align: center;
+        padding-left: 5%;
+        padding-right: 5%;
+        margin: auto;
+        height : auto;
+    }
+
+    .vee_coming_soon{
+        font-size: 72px;
+    }
+    .vee_product > img {
+    max-width: 350px;
+    /*margin: auto;*/
+    }
+        .vee_product > .vee_caption >h3 {
+        /* max-width: 150px; */
+        font-family: PingFang-SC-Medium;
+        font-size: 35px;
+        color: #000000;
+        letter-spacing: 0px;
+    }
+}
+
+@media (min-width: 992px) {
+
+    .vee_product > .vee_caption >h3 {
+        /* max-width: 150px; */
+        font-family: PingFang-SC-Medium;
+        font-size: 15px;
+        color: #000000;
+        letter-spacing: 0px;
+    }
+
+    .vee_product > img {
+        max-width: 150px;
+        /*margin: auto;*/
+        }
+    .vee_story_picture{
+        text-align: center;
+        padding-left: 5px;
+        padding-right: 5px;
+        max-width : 401px;
+        margin: auto;
+        height : auto;
+    }
+    .vee_title_container{
+        text-align: center;
+        /*margin-top: -27%;*/
+        margin-top: -322px;
+        margin-bottom: 220px;
+        position: relative;
+    }
+    .vee_slogan{
+        text-align: center;
+        top: 50px;
+        color: white;
+        font-size: 72px;
+        /*font-family: "STHeiti T0C";*/
+    }
+
+    #qrcode-img{
+        position: absolute;
+        display: none;
+        top: -310px;
+        min-width: 300px;
+        min-height: 300px;
+        left:-200px;
+    }
+    .vee_blog_vertical{
+        height: 960px;
+    }
+
+    .vee_blog_left{
+        padding-right: 5%;
+    }
+
+    .vee_blog_right{
+        padding-left: 5%;
+    }
+
+    .vee_phase{
+        margin-bottom: 64px;
+    }
+
+    .vee_coming_soon{
+        font-size: 40px;
+    }
+
+
+}
+
